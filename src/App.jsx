@@ -1,12 +1,16 @@
-import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom'
-import Home from './Pages/Home'
+import Card from './Components/Card';
+import Footer from './Components/Footer';
 import Header from './Components/Header'
+import Home from './Pages/Home';
 
 function App() {
   return (
     <>
-      <Header />
-      <Home />
+      <div className="container relative px-8 mx-auto">
+        <Header />
+        <Home />
+        <Footer/>
+      </div>
     </>
   )
 }
