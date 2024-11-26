@@ -30,7 +30,7 @@ export default function Hero() {
                         <div class="relative overflow-hidden">
                             <div class="flex items-start lg:items-center">
                                 <img class="object-cover w-12 h-12 rounded-lg shrink-0" src="https://landingfoliocom.imgix.net/store/collection/clarity-blog/images/hero/1/thumbnail-1.png" alt="" />
-                                <p class="ml-5 text-base font-bold leading-6 text-gray-900">
+                                <p class="ml-5 text-base font-bold leading-6 text-white">
                                     <a href="#" title="">
                                         How a visual artist redefines success in graphic design
                                         <span class="absolute inset-0" aria-hidden="true"></span>
@@ -42,7 +42,7 @@ export default function Hero() {
                         <div class="relative overflow-hidden">
                             <div class="flex items-start lg:items-center">
                                 <img class="object-cover w-12 h-12 rounded-lg shrink-0" src="https://landingfoliocom.imgix.net/store/collection/clarity-blog/images/hero/1/thumbnail-2.png" alt="" />
-                                <p class="ml-5 text-base font-bold leading-6 text-gray-900">
+                                <p class="ml-5 text-base font-bold leading-6 text-white">
                                     <a href="#" title="">
                                         How a visual artist redefines success in graphic design
                                         <span class="absolute inset-0" aria-hidden="true"></span>
@@ -54,7 +54,7 @@ export default function Hero() {
                         <div class="relative overflow-hidden">
                             <div class="flex items-start lg:items-center">
                                 <img class="object-cover w-12 h-12 rounded-lg shrink-0" src="https://landingfoliocom.imgix.net/store/collection/clarity-blog/images/hero/1/thumbnail-3.png" alt="" />
-                                <p class="ml-5 text-base font-bold leading-6 text-gray-900">
+                                <p class="ml-5 text-base font-bold leading-6 text-white">
                                     <a href="#" title="">
                                         How a visual artist redefines success in graphic design
                                         <span class="absolute inset-0" aria-hidden="true"></span>
