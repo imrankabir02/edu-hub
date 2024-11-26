@@ -104,10 +104,10 @@ export default function VisitorCounter() {
     }, [])
 
     return (
-        <div className="p-4 bg-white rounded-lg shadow">
-            <h2 className="mb-2 text-xl font-bold">Live Visitors</h2>
-            <p className="text-3xl font-bold text-blue-600">{visitorCount}</p>
-            <p className="text-sm text-gray-500">in the last 15 minutes</p>
+        <div className="py-10 bg-transparent rounded-lg shadow">
+            <h2 className="mb-2 text-4xl font-bold text-center text-white">Live Visitors</h2>
+            <p className="text-3xl font-bold text-center text-blue-600">{visitorCount}</p>
+            <p className="text-sm text-center text-gray-100">in the last 15 minutes</p>
         </div>
     )
 }
